@@ -1,4 +1,5 @@
 # 图书管理后台接口文档
+>预览路径：https://taxiisnottaxi.github.io/mybook-vue/public-base/books.html
 > 基准路径： http://localhost:3000/
 
 ## 获取图书列表数据
